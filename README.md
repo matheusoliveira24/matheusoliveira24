@@ -2,7 +2,7 @@
 
 # 👩🏻‍💻 Matheus Oliveira
 
-**`Desenvolvedora Júnior`**
+**`Desenvolvedor Júnior`**
 
 Me chamo Matheus de Oliveira Silva, tenho 17 anos e sou natural de São Paulo, Concluí o Ensino Medio no SESI fazendo Curso Técnico de Análise e Desenvolvimento de Sistemas no SENAI Conde José Vicente de Azevedo, Atualmente estou ingressando em uma faculdade de ciência da computação, Sou apaixonado por informática e programação, tenho mais Afinidade em Python e HTML
 
