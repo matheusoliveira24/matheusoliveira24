@@ -4,7 +4,11 @@
 
 **`Desenvolvedor Júnior`**
 
-Me chamo Matheus de Oliveira Silva, tenho 18 anos e sou natural de São Paulo, Concluí o Ensino Medio no SESI fazendo Curso Técnico de Análise e Desenvolvimento de Sistemas no SENAI Conde José Vicente de Azevedo, Atualmente estou ingressando em uma faculdade de ciência da computação, Sou apaixonado por informática e programação, tenho mais Afinidade em Python e HTML
+Meu nome é Matheus de Oliveira Silva, tenho 18 anos e sou natural de São Paulo. Concluí o Ensino Médio no SESI e me formei como Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI Conde José Vicente de Azevedo.
+
+Sou apaixonado por tecnologia, informática e programação, com maior afinidade em Python e HTML. Busco constantemente aprimorar meus conhecimentos, desenvolver novas habilidades e aplicar boas práticas na criação de soluções eficientes e inovadoras.
+
+Estou em busca de oportunidades que me permitam crescer profissionalmente, adquirir experiência prática e contribuir com projetos desafiadores na área de desenvolvimento de software.
 
 <a href="https://github.com/matheusoliveira24?tab=stars">
         <img 
